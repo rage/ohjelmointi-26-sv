@@ -279,8 +279,8 @@ def main():
 main()
 ```
 
-<quiz id="a6c3df94-6474-5579-93a9-2def08de1d9c"></quiz>
+<quiz id="ef683724-98a4-5482-acba-47c0b2c4211d"></quiz>
 
 Vänligen svara på en kort enkät gällande materialet för den här veckan.
 
-<quiz id="2dc9424f-e040-53ec-abef-57851d86d249"></quiz>
+<quiz id="0b15bb0d-71fd-57ce-a5df-47b959da1ae2"></quiz>

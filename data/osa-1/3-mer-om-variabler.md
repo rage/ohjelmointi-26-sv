@@ -16,7 +16,7 @@ Efter den här delen
 
 Vänligen fyll i den här enkäten före du börjar med den här delen. Du får ett poäng efter att du har fyllt i enkäten.
 
-<quiz id="c5f45134-68ed-511d-bb4f-9161ebd74c93"></quiz>
+<quiz id="c27a782e-6a3b-5527-8490-51c5217b0c6e"></quiz>
 
 
 
@@ -432,4 +432,4 @@ print(5 + 8 - 4)
 
 Du hittar ett repetitionsquiz för denna del här: 
 
-<quiz id="f7c541b2-1f69-5b0c-8276-6032befb334f"></quiz>
+<quiz id="875369ff-0ce0-5973-b203-e1de267e2bf2"></quiz>

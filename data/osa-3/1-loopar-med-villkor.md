@@ -505,4 +505,4 @@ Du kan anta att det tal användaren matar in är två eller större.
 
 </in-browser-programming-exercise>
 
-<quiz id="6c2bf5c9-ce45-513a-9b74-81d34ba105c1"></quiz>
+<quiz id="f4bbb3b4-5e00-503a-a5c3-bb0253afc1ca"></quiz>

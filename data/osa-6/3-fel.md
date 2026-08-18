@@ -389,4 +389,4 @@ Skapa funktionen `filtrera_felaktiga()` som skapar filen `korrigerade_rader.csv`
 
 </programming-exercise>
 
-<quiz id="3b7efa6e-86d8-5934-a122-2431a3ed7161"></quiz>
+<quiz id="77e36eed-4665-5161-87c2-4fda124310e3"></quiz>

@@ -104,4 +104,4 @@ I uppgiftsbotten finns bilden `sten.png` för asteroiden.
 
 Svara vänligen på en snabb enkät om denna del av kursen:
 
-<quiz id="a43f2a08-b665-5bea-ac53-1e8c421b0c28"></quiz>
+<quiz id="86a0a276-69a0-58ea-956f-a118957fd07b"></quiz>

@@ -71,14 +71,14 @@ Du ska bedöma spelet utifrån följande kriterier:
 
 En bra recension brukar peka ut både bra funktioner och några förslag till förbättringar.
 
-<quiz id="b18bc054-6d75-510a-a218-4a7c585d5950"></quiz>
+<quiz id="b1f7b5af-8f37-5396-a225-772b396afeae"></quiz>
 
 ## Frågeformulär för att avsluta
 
 Först ber vi dig svara på en snabb enkät om den här delen av kursen.
 
-<quiz id="82c7b8a3-2d77-54e5-a86b-d7373925e66f"></quiz>
+<quiz id="4d56408c-179d-5ac2-8ccb-47b067554848"></quiz>
 
 Vänligen svara också på kursens feedbackformulär. Enkätens svar hjälper oss att förbättra kursen.
 
-<quiz id="79b7a293-316e-5e11-8db9-301b5002e6d5"></quiz>
+<quiz id="70b58970-49d5-5ef1-9dc7-425fe8ae44c9"></quiz>

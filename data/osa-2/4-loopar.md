@@ -588,8 +588,8 @@ Negativa 1
 
 </in-browser-programming-exercise>
 
-<quiz id="da2b29cc-7454-5bf8-a1e5-b2c879230dc7"></quiz>
+<quiz id="969d7273-1e6e-503e-9dbb-427292daa5d2"></quiz>
 
 Vänligen svara på en kort enkät som behandlar den här veckans material.
 
-<quiz id="8599db93-abaa-5db3-9fbd-1af1281d8f76"></quiz>
+<quiz id="86706d3f-26bc-55e0-a529-d1390a26a6f4"></quiz>

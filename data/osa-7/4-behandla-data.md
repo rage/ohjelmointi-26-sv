@@ -382,4 +382,4 @@ Obs! För att testen ska fungera ska du använda funktionen med dess förinstäl
 
 </programming-exercise>
 
-<quiz id="7d5aac54-1c08-57cd-b2f6-6dec206b2765"></quiz>
+<quiz id="5f11d5c0-d14c-526a-81a5-f87baf946270"></quiz>
