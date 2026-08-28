@@ -7,7 +7,7 @@ banner: true
 sidebar_priority: 5000
 ---
 
-**Grundkursen börjar onsdagen den 2.9.2026, fortsättningskursen fredagen den 30.10.2026**
+**Grundkursen börjar onsdagen den 2.9.2026, fortsättningskursen fredagen den 30.10.2026.**
 
 Välkommen till kurssidorna för Introduktion till programmering (TKT10002, 5 sp) och Fortsättningskurs i programmering (TKT10003, 5 sp)! 
 
