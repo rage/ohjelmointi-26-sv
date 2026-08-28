@@ -13,7 +13,7 @@ Välkommen till kurssidorna för Introduktion till programmering (TKT10002, 5 sp
 
 ## Kursens upplägg
 
-Du genomför kurserna genom att göra **uppgifter** och i slutet av vardera kurs delta i en **obligatorisk tentamen**. Mer information om bedömningen finns [här](https://rage.github.io/ohjelmointi-24-sv/bedomningar-och-prov).
+Du genomför kurserna genom att göra **uppgifter** och i slutet av vardera kurs delta i en **obligatorisk tentamen**. Mer information om bedömningen finns [här](https://rage.github.io/ohjelmointi-26-sv/bedomningar-och-prov).
 
 ### Kursmaterial
 Allt kursmaterial finns på denna sida. Modul 1-7 (se menyn till vänster) utgör Introduktion till programmering (ProgGK) och modul 8-14 utgör Fortsättningskurs i programmering (ProgFK). Det finns även **inspelade videogenomgångar** för varje modul.
@@ -23,7 +23,7 @@ En **kursträff** hålls varje vecka via [Zoom](https://helsinki.zoom.us/j/65965
 
 Träffarna är inte föreläsningar där vi går exakt igenom det material som finns på kurssidan, utan fokuserar på andra exempel, problemlösning och felsökning. 
 
-**Handledning** ordnas varje vecka. Under september 2025 ordnas svenskspråkig handledning enbart via Discord, men efter det även på campus. Du hittar tidtabellen för handledningstillfällena [här](https://rage.github.io/ohjelmointi-25-sv/stod). Du kommer till kursens Discord-kanal [här](https://study.cs.helsinki.fi/discord/join/ohjelmoinnin_mooc). På kursens kanaler kan du diskutera både med andra studerande samt kursens lärare och handledare. Använd den svenska kanalen #ohjelmoinnin_mooc_swedish för att nå oss. Du når också kursens lärare direkt per epost på ohjelmoinnin-mooc@helsinki.fi.
+**Handledning** ordnas varje vecka på plats i Exactum och via Discord. Du hittar tidtabellen för handledningstillfällena [här](https://rage.github.io/ohjelmointi-26-sv/stod). Du kommer till kursens Discord-kanal [här](https://study.cs.helsinki.fi/discord/join/ohjelmoinnin_mooc). På kursens kanaler kan du diskutera både med andra studerande samt kursens lärare och handledare. Använd den svenska kanalen #ohjelmoinnin_mooc_swedish för att nå oss. Du når också kursens lärare direkt per epost på ohjelmoinnin-mooc@helsinki.fi.
 
 ## Kursöversikt
 
@@ -50,7 +50,7 @@ Fre 11.12.2026 |   14  | Ingen genomgång, projektarbete|-----
 
 ## 1 + 1 poäng tilläggsprestationer
 
-Ifall du tidigare har slutfört motsvarande kurser i Java vid Helsingfors universitet, kan du nu genomföra kurserna i Python och få tilläggsstudiepoäng (1 + 1 sp). Du hittar mer info om detta under rubriken [Bedömning och tentamen](https://rage.github.io/ohjelmointi-24-sv/bedomningar-och-prov).
+Ifall du tidigare har slutfört motsvarande kurser i Java vid Helsingfors universitet, kan du nu genomföra kurserna i Python och få tilläggsstudiepoäng (1 + 1 sp). Du hittar mer info om detta under rubriken [Bedömning och tentamen](https://rage.github.io/ohjelmointi-26-sv/bedomningar-och-prov).
 
 ## Tidsgräns
 
