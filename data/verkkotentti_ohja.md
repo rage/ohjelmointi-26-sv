@@ -3,7 +3,7 @@ path: "/onlinetent-ohja"
 title: "ProgFK onlinetent 28.2.2026"
 information_page: true
 sidebar_priority: 2800
-hide_in_sidebar: false
+hide_in_sidebar: true
 ---
 
 <!--# Ohjelmoinnin jatkokurssi-->
