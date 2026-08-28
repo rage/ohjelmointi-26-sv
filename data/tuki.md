@@ -7,28 +7,14 @@ information_page: true
 
 ### Höstens stödtider
 
-* **Under september** ordnas handledning på svenska flexibelt via Discord – skriv i kanalen eller kontakta Anton via direktmeddelande.
-* **Från och med oktober** ordnas även handledningstillfällen på svenska på campus i **Exactum BK107** tisdagar kl. 14-16. Kryssen i tabellen avser finska campushandledningstillfällen, och du är varmt välkommen att även delta i dem.
+Handledning på svenska ordnas på campus i **Exactum BK107** två timmar i veckan samt därutöver flexibelt via Discord – skriv i kanalen eller kontakta kursassistenten via direktmeddelande.
 
-| Tid / Dag | MÅ | TI | ON | TO | FR |
-|-----|----|----|----|----|----|
-| 10-11 | - | - | - | - | - |
-| 11-12 | - | - | - | - | - |
-| 12-13 | - | X | - | X | - |
-| 13-14 | - | X | - | X | - |
-| 14-15 | - | SV | X | X | - |
-| 15-16 | - | SV | X | X | - |
-| 16-17 | - | - | X | - | - |
-| 17-18 | - | - | X | - | - |
-
-Du kan även få hjälp via Discord under Campus-handledningens tider, ifall handledaren har tid att följa med Discord.
-
-*Schemat kan ändras under kursens gång.*
+Det går också att delta i de finskspråkiga handledningstillfällena på campus onsdagar och fredagar kl. 12-16 i BK107. 
 
 #### Discord
 
-Discord är en meddelandetjänst, som du kan hitta mer info om [här](https://discord.com/).
+Om Discord inte är bekant sedan tidigare hittar du mer info [här](https://discord.com/).
 
-Du hittar kursens kanaler [här](https://study.cs.helsinki.fi/discord/join/ohjelmoinnin_mooc). Det finns en egen kanal för den svenskspråkiga kursen (ohjelmoinnin_mooc_swedish).
+Kursens kanaler finns på [https://study.cs.helsinki.fi/discord/join/ohjelmoinnin_mooc](https://study.cs.helsinki.fi/discord/join/ohjelmoinnin_mooc). Det finns en egen kanal för den svenskspråkiga kursen (ohjelmoinnin_mooc_swedish).
 
 Under handledningstiden svarar handledaren på frågor i kurskanalen och via privata meddelanden på Discord. Discord används även för diskussioner och information utanför handledningstiderna, så det lönar sig att gå med!
