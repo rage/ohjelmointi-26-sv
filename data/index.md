@@ -7,7 +7,7 @@ banner: true
 sidebar_priority: 5000
 ---
 
-**Grundkursen börjar onsdagen den 3.9.2025, fortsättningskursen fredagen den 31.10.2025**
+**Grundkursen börjar onsdagen den 2.9.2026, fortsättningskursen fredagen den 30.10.2026**
 
 Välkommen till kurssidorna för Introduktion till programmering (TKT10002, 5 sp) och Fortsättningskurs i programmering (TKT10003, 5 sp)! 
 
@@ -19,7 +19,7 @@ Du genomför kurserna genom att göra **uppgifter** och i slutet av vardera kurs
 Allt kursmaterial finns på denna sida. Modul 1-7 (se menyn till vänster) utgör Introduktion till programmering (ProgGK) och modul 8-14 utgör Fortsättningskurs i programmering (ProgFK). Det finns även **inspelade videogenomgångar** för varje modul.
 
 ### Kursträffar och handledningstillfällen 
-En **kursträff** hålls varje vecka antingen på plats i Exactum (B121) eller via [Zoom](https://helsinki.zoom.us/j/66662957651?pwd=ehGUCBaMuaiCm4PyRabd3Ajs4lDOhV.1) (se listan nedan). Även campusträffarna streamas via Zoom. Vi använder samma Zoom-länk under båda kurserna. 
+En **kursträff** hålls varje vecka via [Zoom](https://helsinki.zoom.us/j/65965667037?pwd=JU3D3RSrtLmy8OKdaHqbj3SBQrEKGW.1)) (se listan nedan). Vi använder samma Zoom-länk under båda kurserna. 
 
 Träffarna är inte föreläsningar där vi går exakt igenom det material som finns på kurssidan, utan fokuserar på andra exempel, problemlösning och felsökning. 
 
@@ -29,24 +29,24 @@ Träffarna är inte föreläsningar där vi går exakt igenom det material som f
 
 I listan nedan finns inspelningar från hösten 2024 samt aktuella slides från kurserna år 2025. För viktig information gällande datum etc. kolla de aktuella presentationerna, eftersom inspelningarna innehåller datum för 2024 :) Observera att några träffar har avvikande tider, de är markerade med **OBS!** i listan.
 
-Datum          |  Plats  | Modul | Inspelning (2024) | Slides (2025)
----------------|---------|-------|----- |----- 
-Ons 3.9.2025   | Exactum B121 |   1   | [Kursträff 1](https://youtu.be/WLqv5CBMfe4)|[Kursträff 1](https://docs.google.com/presentation/d/1Ypv-DqgOb00sjmdTaOwmnDBaVJvyqNAVT3TdkmhYZqo/present)
-Ons 10.9.2025  | Exactum B121    |   2   | [Kursträff 2](https://youtu.be/cvfuAPBqMnE)|[Kursträff 2](https://docs.google.com/presentation/d/152sk-Idj-QVTEuvS6r1JQ8CBOKFsqP5eQYRhairEzok/present)
-Ons 17.9.2025  | Zoom    |   3   | [Kursträff 3](https://youtu.be/tZMCsoPVNIk)|[Kursträff 3](https://docs.google.com/presentation/d/16Rz-jIpwXITHl3zQoYt6M7XG6KQuHtH2y3klufg8nqk/present)
-Ons 24.9.2025  | Zoom |   4   | [Kursträff 4](https://youtu.be/XN97GBcsEiM)|[Kursträff 4](https://docs.google.com/presentation/d/1qXNpMAOzkJVOFB059QBvporS52YqhQYpbjjDPg7dmks/present)
-**OBS!** To 2.10.2025 kl. 13.15-14.45 | Zoom |   5   | [Kursträff 5](https://youtu.be/6EBVU6I30_4)|[Kursträff 5](https://docs.google.com/presentation/d/1v9NAW3Dxk06MH3M-csSRB-e5F9Lphs63Yo2auPxixuQ/present)
-Ons 8.10.2025  | Exactum B121 |   6   | [Kursträff 6](https://youtu.be/69ak0TAhzME)|[Kursträff 6](https://docs.google.com/presentation/d/1DkeVN7Miu45PA7ZpCtCn9UYlp51Kz771_NisWUAgKP0/present)
-Ons 15.10.2025 | Zoom |   7   | [Kursträff 7](https://youtu.be/GuoPdRdtVX0)|[Kursträff 7 och tentinfo](https://docs.google.com/presentation/d/1tBuwayZiKn6XbWCfrIdVqRmhyPbwEF7m_1jLS4YIjQU/present)
-**OBS!** Fre 31.10.2025 kl. 12.15-13.45  | Zoom |   8   |[Kursträff 1](https://youtu.be/OSn1ylXxL3g)|[Kursträff 1](https://docs.google.com/presentation/d/1NSdBFuHSwtpIm32-KmVy9SCXtL045vuYJYK4fuaK11w/present)
-**OBS!** Ons 5.11.2025 kl. 12.15-13.45   | Zoom |   9   | [Kursträff 2](https://youtu.be/PhMOP2G5MjY)|[Kursträff 2](https://docs.google.com/presentation/d/1H2mbeRwtaNcEQcI0CwAJhKKTby-UgqR2nBT1e3ChgAk/present)
-Ons 12.11.2025  | Zoom    |   10  | [Kursträff 3](https://youtu.be/klfXuoXwoMw)|[Kursträff 3](https://docs.google.com/presentation/d/1RzgRaK9HG1s6m1YQzILwljHps0LMaH5Q9SGF7K3wFm4/present)
-Ons 19.11.2025  | Zoom    |   11  | [Kursträff 4](https://youtu.be/E-VZxC-NkE4)|[Kursträff 4](https://docs.google.com/presentation/d/1MhXDvDgPM7qwV29KfZ4pSmLdV66SEhyjhGh5IPaO7BQ/present)
-**OBS!** Fre 28.11.2025 kl. 11.15-12.45  | Zoom |   12  | [Kursträff 5](https://youtu.be/pZ6XCqszFm8)|[Kursträff 5](https://docs.google.com/presentation/d/1IWx0I9ulsjowEJC74Gi5FACB4WUzkeaAAAsmUfr0XEM/present)
-**OBS!** To 4.12.2025 kl. 13.15-14.45  | Zoom    |   13  | [Kursträff 6](https://youtu.be/8WohpV_pNi8)|[Kursträff 6](https://docs.google.com/presentation/d/1kwOp4KU5BrNixcDG8S7BmaK3D4wzekzHT3CqEjhP0gQ/present) 
-Ons 10.12.2025  | Zoom |   14  | Ingen genomgång, projektarbete|----- 
+Datum                          | Modul | Inspelning (2024) | Slides (2026)
+-------------------------------|-------|----- |----- 
+Ons 2.9.2026 kl. 12.15-13.45   |   1   | [Kursträff 1](https://youtu.be/WLqv5CBMfe4)|TBA
+Ons 9.9.2026 kl. 12.15-13.45   |   2   | [Kursträff 2](https://youtu.be/cvfuAPBqMnE)|TBA
+Ons 16.9.2026 kl. 12.15-13.45  |   3   | [Kursträff 3](https://youtu.be/tZMCsoPVNIk)|TBA
+**OBS!** Ti 22.9.2026 kl. 12.15-13.45  |   4   | [Kursträff 4](https://youtu.be/XN97GBcsEiM)|TBA
+Ons 30.9.2026 kl. 12.15-13.45  |   5   | [Kursträff 5](https://youtu.be/6EBVU6I30_4)|TBA
+Ons 7.10.2026 kl. 12.15-13.45  |   6   | [Kursträff 6](https://youtu.be/69ak0TAhzME)|TBA
+Ons 14.10.2026 kl. 12.15-13.45 |   7   | [Kursträff 7](https://youtu.be/GuoPdRdtVX0)|TBA
+Fre 30.10.2026 kl. 12.15-13.45 |   8   |[Kursträff 1](https://youtu.be/OSn1ylXxL3g)|TBA
+Fre 6.11.2026 kl. 12.15-13.45  |   9   | [Kursträff 2](https://youtu.be/PhMOP2G5MjY)|TBA
+Fre 13.11.2026 kl. 12.15-13.45 |   10  | [Kursträff 3](https://youtu.be/klfXuoXwoMw)|TBA
+Fre 20.11.2026 kl. 12.15-13.45 |   11  | [Kursträff 4](https://youtu.be/E-VZxC-NkE4)|TBA
+Fre 27.11.2026 kl. 12.15-13.45 |   12  | [Kursträff 5](https://youtu.be/pZ6XCqszFm8)|TBA
+Fre 4.12.2026 kl. 12.15-13.45  |   13  | [Kursträff 6](https://youtu.be/8WohpV_pNi8)|TBA
+Fre 11.12.2026 kl. 12.15-13.45 |   14  | Ingen genomgång, projektarbete|----- 
 
-**OBS!** Det kan bli ändringar i denna kursöversikt.
+**OBS!** Det kan bli ändringar i kursöversikten.
 
 ## 1 + 1 poäng tilläggsprestationer
 
@@ -54,6 +54,6 @@ Ifall du tidigare har slutfört motsvarande kurser i Java vid Helsingfors univer
 
 ## Tidsgräns
 
-Du kan göra kursens uppgifter fram till 31.12.2025.
+Du kan göra kursens uppgifter fram till 31.12.2026.
 
 
