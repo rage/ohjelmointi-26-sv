@@ -10,8 +10,8 @@ sidebar_priority: 4000
 
 Bedömningen baseras på både poäng från gjorda uppgifter och tenten. Poäng ges för alla uppgifter i varje modul. Du hittar modulens alla uppgifter genom att välja "Uppgifter i den här modulen" under respektive modul, och du kan hålla koll på dina egna uppgiftspoäng under rubriken "Uppgiftspoäng totalt" i poängvisualiseraren som finns i kursmaterialets nedre högra hörn (blå cirkel). 
 
-### Bedömningsskalan för introduktionskursen under 2025
-I stället för ett numeriskt vitsord bedöms introduktionskursen år 2025 enligt godkänt/underkänt. Förändringen gäller inte fortsättningskursen (dvs. modulerna 8-14). 
+### Bedömningsskalan är 1-5 på båda kurserna
+Under 2025 bedömdes introduktionskursen enligt godkänt/underkänt, men 2026 har vi återgått till numerisk bedömning. Båda kurserna bedöms alltså enligt skalan 1-5. 
 
 [Fusk och plagiat](https://studies.helsinki.fi/instruktioner/artikel/vad-ar-fusk-och-plagiat) är inte tillåtet. Under den första föreläsningen går vi igenom användningen av språkmodeller – bekanta dig med den informationen (se föreläsningen) och Helsingfors universitetets [allmänna riktlinjer](https://studies.helsinki.fi/instruktioner/artikel/anvandning-av-ai-som-stod-inlarning#degree_students) så att du vet vad som är tillåtet.
 
@@ -37,15 +37,15 @@ Noggrannare instruktioner publiceras på dessa sidor före tentdagen.
 
 ### Introduktion till programmering, tentdatum
 
-* Tisdag 28.10.2025 (OBS! Nytt datum!)
-* Lördag 22.11.2025
-* Lördag 17.1.2026
+* Tisdag 27.10.2026
+* Lördag 5.12.2026
+* Lördag 16.1.2027
 
 ### Fortsättningskurs i programmering, tentdatum
 
-* Tisdag 16.12.2025
-* Lördag 24.1.2026
-* Lördag 28.2.2026
+* Tisdag 15.12.2026
+* Lördag 23.1.2027
+* Lördag 27.2.2027
 
 
 ## 1 + 1 poängs tillägg
@@ -56,9 +56,7 @@ Ifall du tidigare har slutfört kursens Java-versioner med godkänt resultat, ka
 
 ### Bedömningsskala
 
-*Introduktionskursen* bedöms med vitsordet godkänt/underkänt. Du får godkänt genom att göra minst 50 % av alla kursuppgifter och bli godkänd i tenten. Dessutom behövs minst 25 % av totalpoängen i varje enskild uppgiftsomgång (1-7). För att bli godkänd i tenten krävs minst hälften av totalantalet poäng. 
-
-*Fortsättningskursen* bedöms enligt följande numeriska skala:
+Kurserna bedöms enligt följande numeriska skala:
 
 <table>
     <thead>
@@ -95,7 +93,7 @@ Ifall du tidigare har slutfört kursens Java-versioner med godkänt resultat, ka
     </tbody>
 </table>
 
-Bedömningen baseras på uppgifterna (utgör 50 % av totalpoängen) och tenten (utgör 50 % av totalpoängen). Detta innebär att vitsordsskalans totalpoäng fås genom att addera ihop poängen från kursuppgifterna (som syns i poängvisualiseraren) och tenten.
+Bedömningen baseras på uppgifterna (utgör 50 % av totalpoängen) och tenten (utgör 50 % av totalpoängen). Detta innebär att vitsordsskalans totalpoäng fås genom att addera ihop poängen från kursuppgifterna (som syns i poängvisualiseraren) och tenten. 
 
 
 ### Minimikrav
