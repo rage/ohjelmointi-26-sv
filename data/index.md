@@ -31,7 +31,7 @@ I listan nedan finns inspelningar från hösten 2024 samt aktuella slides från 
 
 Datum                          | Modul | Inspelning (2024) | Slides (2026)
 -------------------------------|-------|----- |----- 
-Ons 2.9.2026   |   1   | [Kursträff 1](https://youtu.be/WLqv5CBMfe4)|TBA
+Ons 2.9.2026   |   1   | [Kursträff 1](https://youtu.be/WLqv5CBMfe4)|[Kursträff 1](https://docs.google.com/presentation/d/1nPWvJU99FtTOiTx-bEktetL59M7-ojNlSS0LO-F0Drg/present)
 Ons 9.9.2026   |   2   | [Kursträff 2](https://youtu.be/cvfuAPBqMnE)|TBA
 Ons 16.9.2026  |   3   | [Kursträff 3](https://youtu.be/tZMCsoPVNIk)|TBA
 **OBS!** Ti 22.9.2026   |   4   | [Kursträff 4](https://youtu.be/XN97GBcsEiM)|TBA
