@@ -31,19 +31,19 @@ I listan nedan finns inspelningar från hösten 2024 samt aktuella slides från 
 
 Datum                          | Modul | Inspelning (2024) | Slides (2026)
 -------------------------------|-------|----- |----- 
-Ons 2.9.2026   |   1   | [Kursträff 1](https://youtu.be/WLqv5CBMfe4)|[Kursträff 1](https://docs.google.com/presentation/d/1nPWvJU99FtTOiTx-bEktetL59M7-ojNlSS0LO-F0Drg/present)
-Ons 9.9.2026   |   2   | [Kursträff 2](https://youtu.be/cvfuAPBqMnE)|TBA
-Ons 16.9.2026  |   3   | [Kursträff 3](https://youtu.be/tZMCsoPVNIk)|TBA
-**OBS!** Ti 22.9.2026   |   4   | [Kursträff 4](https://youtu.be/XN97GBcsEiM)|TBA
-Ons 30.9.2026  |   5   | [Kursträff 5](https://youtu.be/6EBVU6I30_4)|TBA
-Ons 7.10.2026  |   6   | [Kursträff 6](https://youtu.be/69ak0TAhzME)|TBA
-Ons 14.10.2026 |   7   | [Kursträff 7](https://youtu.be/GuoPdRdtVX0)|TBA
-Fre 30.10.2026 |   8   |[Kursträff 1](https://youtu.be/OSn1ylXxL3g)|TBA
-Fre 6.11.2026  |   9   | [Kursträff 2](https://youtu.be/PhMOP2G5MjY)|TBA
-Fre 13.11.2026 |   10  | [Kursträff 3](https://youtu.be/klfXuoXwoMw)|TBA
-Fre 20.11.2026 |   11  | [Kursträff 4](https://youtu.be/E-VZxC-NkE4)|TBA
-Fre 27.11.2026 |   12  | [Kursträff 5](https://youtu.be/pZ6XCqszFm8)|TBA
-Fre 4.12.2026  |   13  | [Kursträff 6](https://youtu.be/8WohpV_pNi8)|TBA
+Ons 2.9.2026   |   1   | [Inspelning 1](https://youtu.be/WLqv5CBMfe4)|[Slides 1](https://docs.google.com/presentation/d/1nPWvJU99FtTOiTx-bEktetL59M7-ojNlSS0LO-F0Drg/present)
+Ons 9.9.2026   |   2   | [Inspelning 2](https://youtu.be/cvfuAPBqMnE)|TBA
+Ons 16.9.2026  |   3   | [Inspelning 3](https://youtu.be/tZMCsoPVNIk)|TBA
+**OBS!** Ti 22.9.2026   |   4   | [Inspelning 4](https://youtu.be/XN97GBcsEiM)|TBA
+Ons 30.9.2026  |   5   | [Inspelning 5](https://youtu.be/6EBVU6I30_4)|TBA
+Ons 7.10.2026  |   6   | [Inspelning 6](https://youtu.be/69ak0TAhzME)|TBA
+Ons 14.10.2026 |   7   | [Inspelning 7](https://youtu.be/GuoPdRdtVX0)|TBA
+Fre 30.10.2026 |   8   |[Inspelning 1](https://youtu.be/OSn1ylXxL3g)|TBA
+Fre 6.11.2026  |   9   | [Inspelning 2](https://youtu.be/PhMOP2G5MjY)|TBA
+Fre 13.11.2026 |   10  | [Inspelning 3](https://youtu.be/klfXuoXwoMw)|TBA
+Fre 20.11.2026 |   11  | [Inspelning 4](https://youtu.be/E-VZxC-NkE4)|TBA
+Fre 27.11.2026 |   12  | [Inspelning 5](https://youtu.be/pZ6XCqszFm8)|TBA
+Fre 4.12.2026  |   13  | [Inspelning 6](https://youtu.be/8WohpV_pNi8)|TBA
 Fre 11.12.2026 |   14  | Ingen genomgång, projektarbete|----- 
 
 **OBS!** Det kan bli ändringar i kursöversikten.
