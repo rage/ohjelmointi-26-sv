@@ -27,7 +27,7 @@ Träffarna är inte föreläsningar där vi går exakt igenom det material som f
 
 ## Kursöversikt
 
-I listan nedan finns inspelningar från hösten 2024 samt aktuella slides från kurserna år 2025. För viktig information gällande datum etc. kolla de aktuella presentationerna, eftersom inspelningarna innehåller datum för 2024 :) Observera att några träffar har avvikande tider, de är markerade med **OBS!** i listan. **Tiden är 12.15-13.45** om inget annat uppges. 
+I listan nedan finns inspelningar från hösten 2024 samt aktuella slides från 2026. För viktig information gällande datum etc. kolla de aktuella presentationerna, eftersom inspelningarna innehåller datum för 2024 :) Observera att några träffar har avvikande tider, de är markerade med **OBS!** i listan. **Tiden är 12.15-13.45** om inget annat uppges. 
 
 Datum                          | Modul | Inspelning (2024) | Slides (2026)
 -------------------------------|-------|----- |----- 
