@@ -7,7 +7,7 @@ information_page: true
 
 ### Höstens stödtider
 
-Handledning på svenska ordnas på campus i **Exactum BK107** två timmar i veckan samt därutöver flexibelt via Discord – skriv i kanalen eller kontakta kursassistenten via direktmeddelande.
+Handledning på svenska ordnas på campus i **Exactum BK107** fredagar kl. 12-14 samt därutöver flexibelt via Discord – skriv i kanalen eller kontakta kursassistenten Saga Intke via direktmeddelande.
 
 Det går också att delta i de finskspråkiga handledningstillfällena på campus onsdagar och fredagar kl. 12-16 i BK107. 
 
