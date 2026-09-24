@@ -38,7 +38,7 @@ Ons 16.9.2026  |   3   | [Inspelning 3](https://youtu.be/tZMCsoPVNIk)|[Slides 3]
 Ons 30.9.2026  |   5   | [Inspelning 5](https://youtu.be/6EBVU6I30_4)|TBA
 Ons 7.10.2026  |   6   | [Inspelning 6](https://youtu.be/69ak0TAhzME)|TBA
 Ons 14.10.2026 |   7   | [Inspelning 7](https://youtu.be/GuoPdRdtVX0)|TBA
-Fre 30.10.2026 |   8   | [Inspelning 1](https://youtu.be/OSn1ylXxL3g)|TBA
+**OBS!** Ti 27.10.2026 |   8   | [Inspelning 1](https://youtu.be/OSn1ylXxL3g)|TBA
 Fre 6.11.2026  |   9   | [Inspelning 2](https://youtu.be/PhMOP2G5MjY)|TBA
 Fre 13.11.2026 |   10  | [Inspelning 3](https://youtu.be/klfXuoXwoMw)|TBA
 Fre 20.11.2026 |   11  | [Inspelning 4](https://youtu.be/E-VZxC-NkE4)|TBA
