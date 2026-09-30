@@ -35,7 +35,7 @@ Ons 2.9.2026   |   1   | [Inspelning 1](https://youtu.be/WLqv5CBMfe4)|[Slides 1]
 Ons 9.9.2026   |   2   | [Inspelning 2](https://youtu.be/cvfuAPBqMnE)|[Slides 2](https://docs.google.com/presentation/d/1Hq6e-Glp9vuou7CqPQz6ZuO13pythHagkdzMzyLE48M/present)
 Ons 16.9.2026  |   3   | [Inspelning 3](https://youtu.be/tZMCsoPVNIk)|[Slides 3](https://docs.google.com/presentation/d/1xNtFpDhNsmaBf4w340PvBCBkfqsmBQXa4uAVyzLMJOo/present)
 **OBS!** Ti 22.9.2026   |   4   | [Inspelning 4](https://youtu.be/XN97GBcsEiM)|[Slides 4](https://docs.google.com/presentation/d/1ZNyhwXnk5T5x-ryvpjtxXLEoAb2y9LrBTGed1gi2Jvk/present)
-Ons 30.9.2026  |   5   | [Inspelning 5](https://youtu.be/6EBVU6I30_4)|TBA
+Ons 30.9.2026  |   5   | [Inspelning 5](https://youtu.be/6EBVU6I30_4)|[Slides 5](https://docs.google.com/presentation/d/1LUkULoCbLAv1iWj0r7gbJ-qR0L-UEmOGwBAtx6w_hOc/present)
 Ons 7.10.2026  |   6   | [Inspelning 6](https://youtu.be/69ak0TAhzME)|TBA
 Ons 14.10.2026 |   7   | [Inspelning 7](https://youtu.be/GuoPdRdtVX0)|TBA
 **OBS!** Ti 27.10.2026 |   8   | [Inspelning 1](https://youtu.be/OSn1ylXxL3g)|TBA
