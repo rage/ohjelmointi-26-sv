@@ -37,7 +37,7 @@ Ons 16.9.2026  |   3   | [Inspelning 3](https://youtu.be/tZMCsoPVNIk)|[Slides 3]
 **OBS!** Ti 22.9.2026   |   4   | [Inspelning 4](https://youtu.be/XN97GBcsEiM)|[Slides 4](https://docs.google.com/presentation/d/1ZNyhwXnk5T5x-ryvpjtxXLEoAb2y9LrBTGed1gi2Jvk/present)
 Ons 30.9.2026  |   5   | [Inspelning 5](https://youtu.be/6EBVU6I30_4)|[Slides 5](https://docs.google.com/presentation/d/1LUkULoCbLAv1iWj0r7gbJ-qR0L-UEmOGwBAtx6w_hOc/present)
 Ons 7.10.2026  |   6   | [Inspelning 6](https://youtu.be/69ak0TAhzME)|[Slides 6](https://docs.google.com/presentation/d/13PpD6c-ou3MlCKHQ8rYaWOzzWWNXycybK9doBDaYSd0/present)
-Ons 14.10.2026 |   7   | [Inspelning 7](https://youtu.be/GuoPdRdtVX0)|TBA
+Ons 14.10.2026 |   7   | [Inspelning 7](https://youtu.be/GuoPdRdtVX0)|[Slides 7](https://docs.google.com/presentation/d/1dX-bosmrgytyA_5cXjWBOqJE-GhxEklhwEPLYe-KPN4/present)
 **OBS!** Fre 30.10.2026 kl. 10.15-11.30 |   8   | [Inspelning 1](https://youtu.be/OSn1ylXxL3g)|TBA
 Fre 6.11.2026  |   9   | [Inspelning 2](https://youtu.be/PhMOP2G5MjY)|TBA
 Fre 13.11.2026 |   10  | [Inspelning 3](https://youtu.be/klfXuoXwoMw)|TBA
