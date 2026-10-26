@@ -1,6 +1,6 @@
 ---
 path: "/onlinetent-ohpe"
-title: "ProgGK onlinetent 17.1.2026"
+title: "ProgGK onlinetent 27.10.2026"
 information_page: true
 sidebar_priority: 2900
 hide_in_sidebar: false
@@ -71,7 +71,7 @@ Ställ inga frågor om de givna uppgifterna i kurskanalen förrän tenten tagit 
 #### Avslutning av tenten
 
 * Innan du avslutar tenten, kom ihåg att granska att du har kommit ihåg att skicka in uppgifterna till servern
-* Du kan granska att dina svar har registrerats på servern genom att logga in på [https://tmc.mooc.fi/org/hy/courses/1741](https://tmc.mooc.fi/org/hy/courses/1741). Uppgifterna har registrerats om du ser uppgiftsbottnarnas namn och klockslag då du lämnat in respektive uppgift.
+* Du kan granska att dina svar har registrerats på servern genom att logga in på [https://tmc.mooc.fi/org/hy/courses/1744](https://tmc.mooc.fi/org/hy/courses/1744). Uppgifterna har registrerats om du ser uppgiftsbottnarnas namn och klockslag då du lämnat in respektive uppgift.
 * Du kan stänga tentuppgiftssidan då du är färdig. Inga andra åtgärder behövs. 
 
 #### Tentresultatet
