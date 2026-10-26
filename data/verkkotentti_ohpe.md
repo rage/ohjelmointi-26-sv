@@ -3,7 +3,7 @@ path: "/onlinetent-ohpe"
 title: "ProgGK onlinetent 17.1.2026"
 information_page: true
 sidebar_priority: 2900
-hide_in_sidebar: true
+hide_in_sidebar: false
 ---
 
 <!--# Ohjelmoinnin perusteet-->
@@ -19,7 +19,7 @@ hide_in_sidebar: true
 #### Att utföra tenten
 
 * Tenten utförs på samma sätt som kursuppgifter i VScode-omgivningen.
-* Tenten kan utföras tisdagen den 17.1.2026 mellan **kl 10:00-22:00** 
+* Du kan göra tenten tisdagen den 27.10.2026 mellan **kl 10:00-22:00** 
 * Du har **fyra timmar** på dig för att besvara tenten. Ifall du har fått rätt till extratid i tenter, har du fem timmar på dig. 
 * Tenten avslutas senast klockan 22:00. Ifall du vill använda tentens maxtid (4h), **påbörja den senast klockan 18:00**.
 
@@ -42,7 +42,7 @@ hide_in_sidebar: true
 2. Välj `My courses`-vyn i TMC-menyn.
 3. Klicka på `Add new course`
 4. Välj `Helsingin yliopisto` som organisation.
-5. Välj kursen `ProgGK Python, hösten 2025, onlinetent 3`
+5. Välj kursen `Grundkurs i programmering prov1 h2026`
 6. Ladda ner uppgiftsbottnarna.
 7. Testa att skicka in en uppgift så att du vet att det fungerar.
 8. Om du lyckas skicka uppgifter till servern är du redo att göra tenten. Om inte, ta kontakt med kursens personal via Discord.
@@ -50,7 +50,7 @@ hide_in_sidebar: true
 #### Publicering av uppgifter och påbörjande av tentamen
 
 <notice>
-Ställ inga frågor om de givna uppgifterna i kurskanalen före tenten tagit slut. Svara på uppgifterna så som du tolkar dem på bästa sätt. 
+Ställ inga frågor om de givna uppgifterna i kurskanalen förrän tenten tagit slut. Svara på uppgifterna så som du tolkar dem på bästa sätt. 
 </notice>
 
 * Tentfrågorna publiceras på courses.mooc.fi på tentdagen kl 10:00.
@@ -59,8 +59,8 @@ Ställ inga frågor om de givna uppgifterna i kurskanalen före tenten tagit slu
 
 ## Tentfrågorna
 
-* Du hittar tentfrågorna på adressen: <a href="https://courses.mooc.fi/org/uh-cs/exams/38b352bf-f2fb-4193-9f2e-55547bbb88ea">https://courses.mooc.fi/org/uh-cs/exams/38b352bf-f2fb-4193-9f2e-55547bbb88ea</a>
-* Ifall du har rätt till tilläggstid, får du upp tentuppgifterna på adressen (på finska): <a href="https://courses.mooc.fi/org/uh-cs/exams/0dc684a2-7bea-4eeb-bd0f-5630ac0e8c0e">https://courses.mooc.fi/org/uh-cs/exams/0dc684a2-7bea-4eeb-bd0f-5630ac0e8c0e</a>
+* Du hittar tentfrågorna på adressen: <a href="https://courses.mooc.fi/org/uh-cs/exams/45cb0fd9-44c3-43a7-9214-44a06e438010">https://courses.mooc.fi/org/uh-cs/exams/45cb0fd9-44c3-43a7-9214-44a06e438010</a>
+* Om du har rätt till tilläggstid, får du upp tentuppgifterna på adressen (på finska): <a href="https://courses.mooc.fi/org/uh-cs/exams/6c6b1da4-fb63-4c12-a596-40c2b5378f8e">https://courses.mooc.fi/org/uh-cs/exams/6c6b1da4-fb63-4c12-a596-40c2b5378f8e</a>
 
 #### Inlämning av uppgifter
 
@@ -71,7 +71,7 @@ Ställ inga frågor om de givna uppgifterna i kurskanalen före tenten tagit slu
 #### Avslutning av tenten
 
 * Innan du avslutar tenten, kom ihåg att granska att du har kommit ihåg att skicka in uppgifterna till servern
-* Du kan granska att dina svar har registrerats på servern genom att logga in på [https://tmc.mooc.fi/org/hy/courses/1653](https://tmc.mooc.fi/org/hy/courses/1653). Uppgifterna har registrerats om du ser uppgiftsbottnarnas namn och klockslag då du lämnat in respektive uppgift.
+* Du kan granska att dina svar har registrerats på servern genom att logga in på [https://tmc.mooc.fi/org/hy/courses/1741](https://tmc.mooc.fi/org/hy/courses/1741). Uppgifterna har registrerats om du ser uppgiftsbottnarnas namn och klockslag då du lämnat in respektive uppgift.
 * Du kan stänga tentuppgiftssidan då du är färdig. Inga andra åtgärder behövs. 
 
 #### Tentresultatet
@@ -86,6 +86,6 @@ Ställ inga frågor om de givna uppgifterna i kurskanalen före tenten tagit slu
 
 #### Annat
 
-* Under tenten får du **inte** samarbeta eller kopiera färdiga svar. **Normal informationssökning (t.ex. via Google eller i kursmaterialet) är tillåtet.**
+* Under tenten får du **inte** använda AI, samarbeta eller kopiera färdiga svar. **Det är tillåtet att söka information via Google eller i kursmaterialet.**
 * Tentsvaren granskas med plagiatigenkänningsprogram. Fusk leder alltid åtminstone till att tentprestationen underkänns, möjligen även till att studerande avlägsnas från kursen.
 * Tentfrågorna påminner om kursmaterialets uppgifter - det lönar sig alltså att gå igenom materialet inför tenten.
