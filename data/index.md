@@ -40,7 +40,7 @@ Ons 7.10.2026  |   6   | [Inspelning 6](https://youtu.be/69ak0TAhzME)|[Slides 6]
 Ons 14.10.2026 |   7   | [Inspelning 7](https://youtu.be/GuoPdRdtVX0)|[Slides 7](https://docs.google.com/presentation/d/1dX-bosmrgytyA_5cXjWBOqJE-GhxEklhwEPLYe-KPN4/present)
 **OBS!** Fre 30.10.2026 kl. 10.15-11.30 |   8   | [Inspelning 1](https://youtu.be/OSn1ylXxL3g)|[Slides 8](https://docs.google.com/presentation/d/1yMuV_KttFEkCdvDBsDqOIxv5OemSU3J5uEjBZvTCcCo/present)
 Fre 6.11.2026  |   9   | [Inspelning 2](https://youtu.be/PhMOP2G5MjY)|[Slides 9](https://docs.google.com/presentation/d/1iPIjE6owvYrPPPN14HA4DaXUTAW_LJeemmpzyomQO7U/present)
-**OBS!** Fre 13.11.2026 kl. 10.15-11.45 |   10  | [Inspelning 3](https://youtu.be/klfXuoXwoMw)|TBA
+**OBS!** Fre 13.11.2026 kl. 10.15-11.45 |   10  | [Inspelning 3](https://youtu.be/klfXuoXwoMw)|[Slides 10](https://docs.google.com/presentation/d/13Zn_T-uKv7bGaCDwadqgs4YvQKGH5wj8g2BaSTnQZDY/present)
 Fre 20.11.2026 |   11  | [Inspelning 4](https://youtu.be/E-VZxC-NkE4)|TBA
 Fre 27.11.2026 |   12  | [Inspelning 5](https://youtu.be/pZ6XCqszFm8)|TBA
 Fre 4.12.2026  |   13  | [Inspelning 6](https://youtu.be/8WohpV_pNi8)|TBA
