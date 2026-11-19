@@ -187,7 +187,7 @@ Ge ett tal: **6**
 1
 Ge ett tal: **-1**
 
-</Sample-output>
+</sample-output>
 
 I nästlade loopar är det bra att märka att `break` och `continue` endast påverkar den innersta loopen de finns i. Det föregående exemplet skulle kunna skrivas så här:
 
