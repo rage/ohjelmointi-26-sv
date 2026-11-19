@@ -329,4 +329,4 @@ print(ListHjalpare.dubbletter(tal))
 
 </sample-output>
 
-</progarmming-exercise>
+</programming-exercise>

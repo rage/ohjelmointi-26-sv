@@ -498,4 +498,4 @@ print(ratta.traffar_pa_plats(egen_rad))
 
 </sample-output>
 
-</programming-exercises>
+</programming-exercise>

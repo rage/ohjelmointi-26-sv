@@ -272,8 +272,6 @@ Vi har tre tärningar:
 * tärning B med siffrorna 2, 2, 2, 5, 5, 5
 * tärning C med siffrorna 1, 4, 4, 4, 4, 4
 
-</pre>
-
 Skapa funktionen `kasta(tarning: str)` som kastar den valda tärningen.
 
 Exempel:

@@ -117,6 +117,8 @@ Provprestation (presterare: Pernilla, poang: 19)
 Provprestation (presterare: Per, poang: 15)
 Provprestation (presterare: Petra, poang: 17)
 
+</sample-output>
+
 </programming-exercise>
 
 Du kanske minns att listor inte innehåller några objekt i sig själva. De innehåller referenser till objekt. Exakt samma objekt kan förekomma flera gånger i en och samma lista, och det kan refereras till flera gånger i listan eller utanför den. Låt oss ta en titt på ett exempel:

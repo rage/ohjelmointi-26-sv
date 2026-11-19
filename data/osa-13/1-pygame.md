@@ -141,7 +141,7 @@ while True:
 
 Programmet använder denna bild av en robot, som finns lagrad i filen `robot.png`:
 
-<img src="robot.png">
+<img src="robo.png">
 
 Filen `robot.png` måste finnas i samma katalog som källkoden för ditt program, annars kan programmet inte hitta den. I övningsmallarna för denna del väntar bilderna i övningskatalogen.
 

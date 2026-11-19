@@ -411,6 +411,8 @@ namn: **pekka**
 kommando (1 sök, 2 lägg till, 3 avsluta): **3**
 avslutar...
 
+</sample-output>
+
 </programming-exercise>
 
 ## Att ta bort nycklar och värden från ett lexikon
